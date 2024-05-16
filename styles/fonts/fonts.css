@@ -1,0 +1,34 @@
+@font-face {
+	font-family: 'Poetsen One';
+	src: url(../../fonts/PoetsenOne-Regular.ttf) format('truetype');
+}
+
+.poetsen-one {
+	font-family: 'Poetsen One';
+	font-weight: 400;
+	font-style: normal;
+}
+
+.poppins-medium {
+	font-family: "Poppins", sans-serif;
+	font-weight: 500;
+	font-style: normal;
+  }
+  
+  .poppins-semibold {
+	font-family: "Poppins", sans-serif;
+	font-weight: 600;
+	font-style: normal;
+  }
+  
+  .poppins-extrabold {
+	font-family: "Poppins", sans-serif;
+	font-weight: 800;
+	font-style: normal;
+  }
+  .cards__item-eth-text {
+	color: var(--color-3);
+  }
+  .cards__item-eth-gray {
+	color: rgba(23, 23, 23, 0.50);
+  }
